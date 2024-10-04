@@ -77,5 +77,6 @@ if (inputValue == "") {
 
 // export default App
 
+// Thanks for helping in setting Git and commands Yasvanth
 
 export default App
